@@ -82,3 +82,4 @@ function message() {
         console.log(`Your lucky drink is ${drink}. It should be drunk while ${moment()} or ${place()}.`)
     }
 }
+message()
