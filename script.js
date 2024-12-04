@@ -1,4 +1,3 @@
-let randomMessage = "";
 function luckyAlcohol() {
     const randomNum = Math.floor(Math.random() * 8)
     switch(randomNum) {
